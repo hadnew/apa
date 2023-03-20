@@ -1,0 +1,27 @@
+{ 
+  "ownerNumber": "62895347198105@s.whatsapp.net",
+  "botName": "𝑨𝒓𝒊𝒇𝒛𝒚𝒏𝑿𝑫 𝑺𝑯𝑶𝑷",
+  "ownerName": "𝑰𝒕𝒔 𝑴𝒆 𝑨𝒓𝒊𝒇𝒛𝒚𝒏𝑿𝑫",
+  "sessionName": "session",
+  "host": "",
+  "application": {
+      "api_key": "", 
+      "c_api_key": "" 
+   },
+  "serverCreate": {
+    "nestId": "5", 
+    "eggId": " 15", 
+    "limits": {
+      "db": "1", 
+      "backups": "1", 
+      "allocation": "0" 
+    },
+    "eggs": {
+      "environment": {
+        "STARTUP_CMD": "npm install", 
+        "CMD_RUN": "npm start"
+      }
+    }
+}
+}
+
